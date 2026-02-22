@@ -12,7 +12,6 @@ This project presents an on-chain data analysis of the PLUME protocol using Dune
 3. Tools Used
 - Dune Analytics (SQL)
 - On-chain blockchain data
-- GitHub for version control
 
 4. Queries Included
 - Active Wallets interacting with WPLUME
