@@ -27,5 +27,5 @@ This project presents an on-chain data analysis of the PLUME protocol using Dune
 - Staking usage reflects strong participation within core holders
 - Risk metrics suggest structural dependencies on key contracts
 
-5. Data Source
+6. Data Source
 All data extracted using Dune Analytics SQL queries.
